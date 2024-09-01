@@ -6,8 +6,7 @@ Api server for Aircheck project. The purpose of this project is to cache data fo
 
 ## Requirements
 
-Node.js 22
-MongoDB 7
+Node.js 22, MongoDB 7
 
 ## Installation
 
