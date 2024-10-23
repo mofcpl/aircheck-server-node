@@ -34,6 +34,10 @@ npm run start
 
 We use the Git Flow branching model for development.
 
+## Alternative project
+
+This project was also created in Java: [aircheck-server](https://github.com/mofcpl/aircheck-server)
+
 ## Notes
 
 Refer to [aircheck-client](https://github.com/mofcpl/aircheck-client) for more information.
